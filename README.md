@@ -1,5 +1,5 @@
 # Data-Engineering-Projects
-Create this Repository for covers overall works of Data Engineer in Real World from scratch 
+Create this Repository for covers overall works of Data Engineer in Real World from scratch...
 
 This repository contains end-to-end data engineering projects using **Python, PySpark, Airflow, and Databricks**.  
 It demonstrates data pipelines, transformations, and analytics workflows.
