@@ -20,6 +20,6 @@ It demonstrates data pipelines, transformations, and analytics workflows.
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/<your-username>/data-engineering-projects.git
+git clone https://github.com/Abdul90QW/Data-Engineering-Projects.git
 cd data-engineering-projects
 pip install -r requirements.txt
